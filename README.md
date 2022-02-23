@@ -1,8 +1,8 @@
 # Car Shop
 ### Realizzeremo una soluzione multiprogetto per la gestione di una rivendita di veicoli usati:
--Moto
--Auto
--Furgoni
+- Moto
+- Auto
+- Furgoni
 
 
 ### Gli obiettivi del progetto sono i seguenti:
